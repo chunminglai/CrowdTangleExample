@@ -1,5 +1,5 @@
 import requests
-token = "dzjTHrU86NEp4qs5mXK86dkWurVGKgLX6Waj4owz"
+token = "Enter Your Token Here"
 def ct_get_posts(count=None, start_date= None, end_date= None, include_history= None,listIds = None,language = None,
                  sort_by="date", types=None, search_term=None,searchTerm = None, 
                  min_interactions = 0, offset = None, api_token=None):
